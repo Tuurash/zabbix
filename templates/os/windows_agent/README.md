@@ -1,4 +1,3 @@
-
 # Windows by Zabbix agent
 
 ## Overview
@@ -224,4 +223,3 @@ Install Zabbix agent on Windows OS according to Zabbix documentation.
 Please report any issues with the template at [`https://support.zabbix.com`](https://support.zabbix.com)
 
 You can also provide feedback, discuss the template, or ask for help at [`ZABBIX forums`](https://www.zabbix.com/forum/zabbix-suggestions-and-feedback)
-
